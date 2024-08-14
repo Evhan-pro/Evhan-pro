@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est @Evhan-pro !
+# 👋 Salut, moi c'est Evhan !
 
 ```javascript
 const evhan = {
